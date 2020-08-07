@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c51d9"],{"3e5f":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("h2",[e._v("結帳完成 Checkout-complete")])},u=[],l={},o=l,r=t("2877"),s=Object(r["a"])(o,c,u,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0c51d9.4448e32b.js.map
