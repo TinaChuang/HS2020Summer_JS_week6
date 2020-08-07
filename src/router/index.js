@@ -52,6 +52,18 @@ const routes = [
       {
         path: "products",
         component: () => import("../views/backend/ProductList.vue")
+      },
+      {
+        path: "coupons",
+        component: () => import("../views/backend/CouponList.vue")
+      },
+      {
+        path: "orders",
+        component: () => import("../views/backend/OrderList.vue")
+      },
+      {
+        path: "pic-storage",
+        component: () => import("../views/backend/PicStorage.vue")
       }
     ]
   }

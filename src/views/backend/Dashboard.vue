@@ -29,6 +29,15 @@
         <router-link to="/backend/products">產品列表</router-link>
       </li>
       <li class="nav-item px-3 border-left border-right">
+        <router-link to="/backend/coupons">優惠券列表</router-link>
+      </li>
+      <li class="nav-item px-3 border-left border-right">
+        <router-link to="/backend/orders">訂單列表</router-link>
+      </li>
+      <li class="nav-item px-3 border-left border-right">
+        <router-link to="/backend/pic-storage">圖片儲存列表</router-link>
+      </li>
+      <li class="nav-item px-3 border-left border-right">
         <a href="#" @click.prevent="signOut">登出</a>
       </li>
     </ul>
