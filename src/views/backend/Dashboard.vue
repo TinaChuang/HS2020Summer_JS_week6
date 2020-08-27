@@ -2,14 +2,15 @@
   <div class="container-fluid">
     <h1>後台介面</h1>
     <!-- 開始：Bootstrap alert -->
-    <div class="container">
+    <!-- <div class="container">
       <div class="alert alert-warning alert-dismissible fade show" role="alert">
         <strong>Holy guacamole!</strong> You should check in on some of those fields below.
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-    </div><!-- 結束：Bootstrap alert -->
+    </div> -->
+    <!-- 結束：Bootstrap alert -->
     <!-- 登入 -->
     <div class="row d-flex justify-content-center align-items-center" v-if="token == ''">
       <div class="col-12 col-sm-8 col-md-7 text-center">
